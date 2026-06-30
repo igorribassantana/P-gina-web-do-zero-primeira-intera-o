@@ -71,9 +71,7 @@ O site é destinado principalmente a:
 
 ## Autores
 
-- Igor
-- Ribas
-- Sant'Ana
+- Igor Ribas Sant'Ana
 
 Colégio CCM Manoel Ribas
 
